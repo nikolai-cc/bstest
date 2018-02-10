@@ -1,4 +1,4 @@
-# BSTEST: BrowSerTEST
+# bstest: BrowSerTEST
 
 ## An extremely simple and light-weight drop-in browser test banner.
 
