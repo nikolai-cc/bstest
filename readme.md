@@ -2,9 +2,9 @@
 
 ## An extremely simple and light-weight drop-in browser test banner.
 
-So you're building a project website using super cool new CSS features and you don't feel like adding Polyfills and conditional formatting for your grandma surfing the web on an orange iBook running Netscape Navigator on Mac OS9, or someone who's Tamagotchi based browser does not support JavaScript. 
+So you're building a project website using super cool new CSS features and you don't feel like adding Polyfills or gracefull fallbacks for your grandma surfing the web on an orange iBook running Netscape Navigator on Mac OS9, or someone who's Tamagotchi based browser does not support JavaScript. 
 
-Drop in these 1400 bytes of html and javascript at the end of your \<body> and don't care about the rest.
+Drop in these ~1117 bytes of html and javascript at the end of your \<body> and don't care about the rest.
 
 
 ### The HTML:
